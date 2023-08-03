@@ -1,9 +1,3 @@
-This labs is a simple encoder program.
-The program has three functionalities:
+Program Memory and Pointers, Debugging and Simulating Object Oriented Programming
 
-1.Parsing the command-line arguments and printing debug messages.
-
-2.The actual encoder.
-
-3.Redirecting the input and output according to the command-line arguments.
-
+In this lab we are simulating objects in C. We will have a menu consisting of menu "objects", each of which has a name to be printed on the menu, and a "method". From here on we read complete lines from stdin instead of individual chars.
